@@ -55,7 +55,7 @@ Enter a topic, select a style preset (e.g. cinematic, fantasy, anime), and gener
 
 ## 📁 Folder Structure
 
-├── main_app.py
+├── main_app.py\n
 ├── utils/
 │ ├── text_gen.py
 │ ├── quote_image.py
