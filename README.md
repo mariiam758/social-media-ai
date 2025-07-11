@@ -55,23 +55,40 @@ Enter a topic, select a style preset (e.g. cinematic, fantasy, anime), and gener
 
 ## 📁 Folder Structure
 
-├── main_app.py\n
+├── main_app.py
+
 ├── utils/
+
 │ ├── text_gen.py
+
 │ ├── quote_image.py
+
 │ ├── image_gen.py
+
 │ ├── image_overlay.py
+
 │ ├── quote_section.py
+
 │ └── export_zip.py
+
 ├── outputs/
+
 │ ├── twitter.txt
+
 │ ├── instagram.txt
+
 │ ├── linkedin.txt
+
 │ ├── generated_image.png
+
 │ ├── quote_on_image.png
+
 │ ├── quote.png
+
 │ └── quote.txt
+
 ├── requirements.txt
+
 └── README.md
 
 
